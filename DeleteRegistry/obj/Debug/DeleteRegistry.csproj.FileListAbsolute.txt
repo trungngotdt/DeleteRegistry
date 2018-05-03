@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\DeleteRegistry\DeleteRegistry\bin\Debug\DeleteRegistry.exe.config
+c:\users\admin\source\repos\DeleteRegistry\DeleteRegistry\bin\Debug\DeleteRegistry.exe
+c:\users\admin\source\repos\DeleteRegistry\DeleteRegistry\bin\Debug\DeleteRegistry.pdb
+c:\users\admin\source\repos\DeleteRegistry\DeleteRegistry\obj\Debug\DeleteRegistry.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\DeleteRegistry\DeleteRegistry\obj\Debug\DeleteRegistry.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\DeleteRegistry\DeleteRegistry\obj\Debug\DeleteRegistry.exe
+c:\users\admin\source\repos\DeleteRegistry\DeleteRegistry\obj\Debug\DeleteRegistry.pdb
